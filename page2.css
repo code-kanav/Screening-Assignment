@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  background: url(2.jpg) ;
+}
+
+.container {
+  padding: 15px;
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
+}
+
+.card {
+  margin: 10px;
+  opacity: 0.9;
+}
+
+.btn2 {
+  padding: 10px;
+  display:block;
+  background-color: white;
+  color: black;
+  text-align:center;
+  position: absolute;
+  top: 5px;
+  right: 5px;
+}
